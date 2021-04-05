@@ -4,6 +4,8 @@ layout: default
 
 hihi
 
+<p style="color:#86C277;">Text in green</p>
+
 ## Header
 
 > When something is important enough, you do it even if the odds are not in your favor.
