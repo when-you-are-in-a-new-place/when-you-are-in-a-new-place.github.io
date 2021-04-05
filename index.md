@@ -6,6 +6,9 @@ hihi
 
 <p style="color:#86C277;">Text in green</p>
 
+<p style="color:#86C277; font-size:110%">Text in green in large font</p>
+
+
 ## Header
 
 > When something is important enough, you do it even if the odds are not in your favor.
