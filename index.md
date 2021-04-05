@@ -4,9 +4,7 @@ layout: default
 
 hihi
 
-<p style="color:#86C277;">Text in green</p>
-
-<p style="color:#86C277; font-size:110%">Text in green in large font</p>
+<p style="font-size:110%">Text 110% font size via HTML</p>
 
 
 ## Header
