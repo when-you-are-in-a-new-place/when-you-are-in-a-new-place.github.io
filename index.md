@@ -13,7 +13,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png =80x)
 
 ### Large image
 
