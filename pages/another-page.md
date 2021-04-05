@@ -7,5 +7,4 @@ permalink: /another-page/
 
 _yay_
 
-[back](./)
 
